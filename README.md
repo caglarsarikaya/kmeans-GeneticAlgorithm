@@ -16,3 +16,4 @@ kmeans clusters
 Thanks for support
 
 Kmeans -> https://visualstudiomagazine.com/articles/2013/12/01/k-means-data-clustering-using-c.aspx?m=2
+2d-plot-draw -> https://www.desmos.com/calculator
